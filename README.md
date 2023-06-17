@@ -2,11 +2,11 @@
 
 Paste this command into Windows Powershell
 ```
-irm https://raw.githubusercontent.com/Rasinzz/fivem-server-setup-script-public/main/script.ps1 | iex
+irm https://raw.githubusercontent.com/Rasinzz/fivem-server-setup-gui/main/script.ps1 | iex
 ```
 or
 ```
-iwr -useb https://raw.githubusercontent.com/Rasinzz/fivem-server-setup-script-public/main/script.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Rasinzz/fivem-server-setup-gui/main/script.ps1 | iex
 ```
 
 ## TODO
