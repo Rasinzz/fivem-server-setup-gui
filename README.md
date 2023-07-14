@@ -14,3 +14,10 @@ iwr -useb https://raw.githubusercontent.com/Rasinzz/fivem-server-setup-gui/main/
 
 ## Dependencies
 - 7Zip4Powershell (`Install-Module -Name 7Zip4Powershell`)
+
+## Screenshots
+![Configure](preview/configure.png)
+
+![Misc](preview/misc.png)
+
+![Install](preview/install.png)
